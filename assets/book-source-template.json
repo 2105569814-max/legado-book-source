@@ -1,0 +1,63 @@
+[
+  {
+    "bookSourceComment": "TODO: 填写书源说明",
+    "bookSourceGroup": "自建书源",
+    "bookSourceName": "TODO: 站点名",
+    "bookSourceType": 0,
+    "bookSourceUrl": "https://TODO.example.com",
+    "bookUrlPattern": "",
+    "customOrder": 0,
+    "enabled": true,
+    "enabledExplore": true,
+    "enabledCookieJar": false,
+    "exploreUrl": "[{\"title\":\"玄幻\",\"url\":\"/xuanhuan/{{page}}.html\",\"style\":{\"layout_flexGrow\":1}}]",
+    "header": "{\"User-Agent\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36\"}",
+    "lastUpdateTime": 0,
+    "loginUrl": "",
+    "ruleBookInfo": {
+      "name": "",
+      "author": "",
+      "kind": "",
+      "coverUrl": "",
+      "intro": "",
+      "lastChapter": "",
+      "wordCount": "",
+      "tocUrl": ""
+    },
+    "ruleContent": {
+      "content": "",
+      "nextContentUrl": "",
+      "sourceRegex": "",
+      "webJs": ""
+    },
+    "ruleExplore": {
+      "bookList": "",
+      "name": "",
+      "author": "",
+      "kind": "",
+      "coverUrl": "",
+      "bookUrl": "",
+      "intro": "",
+      "lastChapter": ""
+    },
+    "ruleSearch": {
+      "bookList": "",
+      "name": "",
+      "author": "",
+      "kind": "",
+      "coverUrl": "",
+      "bookUrl": "",
+      "intro": "",
+      "lastChapter": ""
+    },
+    "ruleToc": {
+      "chapterList": "",
+      "chapterName": "text",
+      "chapterUrl": "href",
+      "nextTocUrl": "",
+      "updateTime": ""
+    },
+    "searchUrl": "",
+    "weight": 0
+  }
+]
